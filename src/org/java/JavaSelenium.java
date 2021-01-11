@@ -8,12 +8,9 @@ public class JavaSelenium {
 		public void branch() {
 			System.out.println("Chennai");
 		}
-		
-		public static void main(String[] args) {
-			JavaSelenium j=new JavaSelenium();
-			j.office();
-			j.branch();
+		public void empName() {
+			System.out.println("Employee name is Gangesh");
 		}
-	
+		
 		
 }
