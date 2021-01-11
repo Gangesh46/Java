@@ -8,6 +8,10 @@ public class JavaSelenium {
 		public void branch() {
 			System.out.println("Chennai");
 		}
+		public void empId()
+		{
+			System.out.println("Employee id is 12345");
+		}
 	
 		
 }
